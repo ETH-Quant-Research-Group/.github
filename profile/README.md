@@ -10,7 +10,7 @@
 
 <p align="center">
   Part of the Analytics Club at ETH Zurich, doing quant research and running the first fully<br>
-  systematic student fund — giving motivated students real-world experience.
+  systematic student fund, giving motivated students real-world experience.
 </p>
 
 <p align="center">
