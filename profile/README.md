@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h3 align="center">QRF — Zurich's systematic, delta-neutral investment fund</h3>
+<h3 align="center">QRF - Zurich's systematic, delta-neutral investment fund</h3>
 
 <p align="center">
   Part of the Analytics Club at ETH Zurich, doing quant research and running the first fully<br>
